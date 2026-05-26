@@ -9,4 +9,4 @@ if a == 'yes':
     shutdown()
 else:
     print("there is no other function so wait for battery to run out cause you denied the shutdown")
-print("1 + 1 = 11")
+print("this line will never be printed because the shutdown function will exit the program")
